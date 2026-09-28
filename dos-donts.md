@@ -50,8 +50,10 @@ Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er
 ## Schoenen en accessoires
 
 **Do**
-- Schoen in de kleur van de broek: verlengt het been. Onder donkere jeans is zwart daarmee de veilige keuze
+- Schoenkleur in het algemeen: wit of zwart, geen beige
+- Schoen in de kleur van de broek verlengt het been: onder donkere jeans dus donkere schoenen (zwart, donkerblauw)
 - Zwart is een volwaardige neutrale: tas, koffer, montuur
 
 **Don't**
-- Beige sneakers: warm en breken de lijn. Wit is qua kleur beter dan beige, maar verkort onder donkere jeans nog steeds het been — zwart wint op beide punten
+- Beige sneakers: warm en breken de lijn
+- Lichte sneakers onder donkere jeans: verkorten het been

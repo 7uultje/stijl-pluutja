@@ -28,6 +28,7 @@ Zie `dos-donts.md` — wordt bij elke commit aangevuld.
 - `README.md` — dit overzicht
 - `kleurprofiel.md` — kleuranalyse, vier assen, regels, referentiestukken
 - `kleurenpalet.md` — palet per kleurgroep met hexcodes en status (✓✓ / ✓ / ~ / ✗, [t] = getest)
+- `materiaal-en-afwerking.md` — glad vs. dof, gemêleerd en verwassen, en wat dat met de kleur doet
 - `gezicht-en-lichaamsbouw.md` — gezichtsvorm, bouw en wat dat betekent voor halslijn, pasvorm en silhouet
 - `sterke-punten.md` — wat er in stylingtermen uit te buiten valt
 - `garderobe-analyse.md` — beoordeling van de kledingstukken op de analysefoto's (✓ / ~ / ✗)

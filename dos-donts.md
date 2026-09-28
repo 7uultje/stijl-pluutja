@@ -1,6 +1,6 @@
 # Do's & don'ts
 
-Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `kleurenpalet.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md` en `sterke-punten.md`.
+Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `kleurenpalet.md`, `materiaal-en-afwerking.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md` en `sterke-punten.md`.
 
 ## Vuistregel
 
@@ -25,6 +25,19 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Ton-sur-ton in middentinten: grijs op greige, olijf op kaki
 - Lichtere olijf, salie en steen als top; op broek- en schoenniveau zijn ze prima
 - Rosé en koper
+
+## Materiaal en afwerking
+
+**Do**
+- Glad en dicht: poplin, effen jersey, fijngebreide merino, denim in egale wassing, nylon shell, leer. Laat de kleur op volle sterkte zien
+- Lichte glans in details: nylon jack, gepoetste schoenen, leren riem, gepolijst zilver/staal, glanzend brilmontuur
+- Toets: zachte textuur mag, zolang de kleur verzadigd blijft (de marine chambray)
+
+**Don't**
+- Gemêleerd, melange, heather grey; geborsteld katoen, fleece, bouclé, harige wol. Maken elke kleur stoffig, ook een goede. Het grijsmauve en greige T-shirt waren allebei gemêleerd
+- Verwassen, stonewashed, gefaded. Lichte uitgebleekte jeans is de grens; medium-donker was goed
+- Matte pastelstof (gewassen linnen in lichtblauw of salie): dubbel gedempt
+- Echte glans in het hoofdstuk (satijn, zijde-look, glimmend polyester): kwestie van leeftijd en gelegenheid, niet van kleurprofiel
 
 ## Patroon
 
@@ -72,7 +85,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Schoenkleur in het algemeen: wit of zwart, geen beige
 - Schoen in de kleur van de broek verlengt het been: onder donkere jeans dus donkere schoenen (zwart, donkerblauw)
 - Zwart is een volwaardige neutrale: tas, koffer, montuur
-- Bril: stevig donker montuur, past bij het wenkbrauwbeen en de diepliggende ogen
+- Bril: stevig donker montuur, glanzend boven mat; past bij het wenkbrauwbeen en de diepliggende ogen
 
 **Don't**
 - Beige sneakers: warm en breken de lijn

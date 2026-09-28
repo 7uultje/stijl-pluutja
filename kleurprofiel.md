@@ -1,5 +1,7 @@
 # Kleurprofiel
 
+Analyse en regels. Het palet met hexcodes per kleur staat in `kleurenpalet.md`.
+
 ## Basisgegevens
 
 Vier assen — onafhankelijk van elkaar, elk apart te beoordelen:
@@ -34,6 +36,8 @@ Geen seizoenslabels als profielbeschrijving: "deep winter" is de dichtstbijzijnd
 - **Diepte en contrast wegen zwaarder dan temperatuur:** een verzadigde diepe kleur verslaat elke lichte of gedempte kleur, ongeacht temperatuur. Marine, dennengroen, bordeaux en smaragd zijn daarom de kern
 - **Gedempt-middellicht is het grootste risico, groter dan warm:** een stoffig grijsmauve doet meer kwaad dan een donker olijf
 - **Zuiver wit is de enige lichte kleur die zelfstandig werkt;** alle andere lichte tinten (lichtblauw, ijsblauw, lavendel) alleen als streep, accent of onder een donkere laag. Bij effen wit of lichtblauw: wit
+- **Koel diep rood bij het gezicht ✓:** kersrood is getest (ruit, warm binnenlicht) en houdt de huid levendig; koraal en zalm blijven ✗
+- **Patronen: hoog intern contrast mag druk zijn.** Een ruit met witte lijnen in marine/dennengroen/rood zit op zijn niveau, niet erover; bij een medium-contrast type zou zo'n patroon het gezicht overschreeuwen. Een klein licht accent in het patroon (lichtroze kraagje) is te klein om te storen
 - **Warm alleen diep en als oog-echo:** donker olijf (~#3E4A2A) is getest en goed; mosgroen en amber zijn daaruit afgeleid; gelere of lichtere olijf niet getest en verdacht. Warme neutralen (camel, beige, mosterd, crème) ✗
 - **Contrast-matchregel:** combinaties met hoog intern contrast (wit + marine, zwart + wit, smaragd + wit) matchen; ton-sur-ton in middentinten (grijs op greige, olijf op kaki) zit onder het eigen niveau en maakt het gezicht vlakker dan het is
 - **Warm en koel mogen samen in één outfit, mits beide diep:** marine + donker olijf, antraciet + mosgroen, bordeaux + donker olijf
@@ -47,3 +51,4 @@ Geen seizoenslabels als profielbeschrijving: "deep winter" is de dichtstbijzijnd
 | In-shot witbalansreferentie | zuiver wit T-shirt | ~#FAFAFA | werkt betrouwbaarder als referentie dan een gekleurd kledingstuk, en wordt vaak gedragen |
 | Grenstest | donkerolijven jack | ~#3E4A2A | bewezen goed bij bewolkt daglicht; markeert de warme grens van het profiel |
 | Negatieve referentie | grijsmauve T-shirt | ~#A896A2 | laat in één foto zien wat gedempt-middellicht doet; handig om twijfelgevallen tegen af te zetten |
+| Patroontest | ruit marine/dennengroen/rood/wit | — | bewijst dat druk + hoog intern contrast werkt, en dat dennengroen en kersrood bij het gezicht kunnen; zelfs bij warm binnenlicht |

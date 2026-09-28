@@ -24,6 +24,7 @@ Per kledingstuk, in volgorde van de foto's. ✓ = staat goed, ~ = neutraal/doet 
 | Antraciet fijngestreept overhemd (Chinatown) | ✓ | Diep neutraal, werkt goed; iets minder levendig dan marine |
 | Donker olijf parka (recente selfie) | ✓ | Getest bij bewolkt daglicht: markeert de warme grens en zit er nog net aan de goede kant van |
 | Zwarte rugzak, zwarte koffer, donker montuur | ✓ | Zwart is voor hem een volwaardige neutrale; het montuur (jeugdfoto) versterkt het contrast |
+| Licht grijsbeige gilet over wit overhemd | ✗ | Greige bij het gezicht: huid vlak en asgrauw, ondanks het wit eronder |
 
 ## Jeugdfoto's
 
@@ -34,10 +35,11 @@ Per kledingstuk, in volgorde van de foto's. ✓ = staat goed, ~ = neutraal/doet 
 | Mosterdgele winterjas | ✗ | Maakt het gezicht vaal en gelig, ook met de capuchon eromheen; het duidelijkste bewijs tegen mosterd |
 | Grijs gemêleerd vest met donkere bies + lichtblauw T-shirt | ✓ | Fris; de donkere bies bij de hals doet het werk dat het lichtblauw alleen niet kan |
 | Antraciet T-shirt + grijsbruine broek | ~ | Shirt goed, broek greige; samen te tonaal voor zijn contrastniveau |
+| Ruit overhemd marine/dennengroen/rood/wit (warm binnenlicht) | ✓✓ | Vier kernkleuren in één stuk, hoog intern contrast door de witte lijnen; huid blijft levendig en de blos zichtbaar ondanks de gele lamp. Lichtroze binnenkraagje te klein om te storen |
 
 ## Wat opvalt in de garderobe als geheel
 
 - De beste stukken zijn allemaal óf zuiver wit óf diep koel (marine, antraciet, navy jack). Daar zit het patroon.
 - Alle missers zijn middellichte, gedempte tinten: blauwgrijs, grijsmauve, greige. Niet warm/koel is de valkuil, maar vaal.
-- Er ontbreekt nog een verzadigde kleur: geen kobalt, geen dennengroen, smaragd, petrol of bordeaux in de hele reeks. Dat zijn precies de kernkleuren; één stuk daarin zou meer doen dan alle grijstinten samen.
+- In de recente garderobe ontbreekt een verzadigde kleur: geen kobalt, dennengroen, smaragd, petrol of bordeaux. Dat zijn precies de kernkleuren; één stuk daarin zou meer doen dan alle grijstinten samen. De ruit uit de jeugdfoto's bewijst dat dennengroen en kersrood bij hem werken.
 - Olijf komt veel voor en werkt, maar alleen in de donkere versie. De lichtere salie en steen blijven beter op broek- en schoenniveau.

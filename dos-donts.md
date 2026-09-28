@@ -1,6 +1,6 @@
 # Do's & don'ts
 
-Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md` en `sterke-punten.md`.
+Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `kleurenpalet.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md` en `sterke-punten.md`.
 
 ## Vuistregel
 
@@ -10,19 +10,30 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 
 **Do**
 - Zuiver wit en diep koel (marine, antraciet, zwart) als basis — het witte T-shirt en het marine overhemd zijn de bewezen toppers, herhalen
-- Eén verzadigd kernstuk kopen: kobalt, dennengroen, smaragd, petrol of bordeaux. Ontbreekt nu helemaal en zou meer doen dan alle grijstinten samen. Kleuren die bij anderen "te hard" zijn, zitten bij hem goed
+- Eén verzadigd kernstuk kopen: kobalt, dennengroen, smaragd, petrol of bordeaux. Ontbreekt in de huidige garderobe en zou meer doen dan alle grijstinten samen. Kleuren die bij anderen "te hard" zijn, zitten bij hem goed
+- Dennengroen en kersrood bij het gezicht: bevestigd op foto (ruit). Rood moet koel en diep zijn; koraal en zalm niet
 - Olijf alleen in de donkere versie (~#3E4A2A) bij het gezicht; mosgroen en amber vallen onder dezelfde uitzondering en laten de ogen oplichten
 - Licht alleen mét contrast: blauw-wit fijngestreept werkt, effen lichtblauw niet (hooguit als losse laag over wit)
 - Warm en koel samen mag, mits beide diep: marine + donker olijf, bordeaux + donker olijf
 - Metaal: zilver, staal, witgoud; klein glanzend geelgoud alleen naast groen of bordeaux
+- Hexcodes per kleur: zie `kleurenpalet.md`
 
 **Don't**
 - Gedempt-middellicht: blauwgrijs, grijsmauve, greige, stoffig — de grootste valkuil, groter dan warm. Greige is ook in de praktijk bevestigd: licht grijsbeige gilet bij het gezicht maakt de huid vlak en asgrauw, zelfs met wit overhemd eronder
 - Warme neutralen bij het gezicht: camel, beige, mosterd, crème, kaki
-- Koraalrood (kersrood kan wel)
+- Koraalrood en zalm (kersrood, robijn, bordeaux kunnen wel)
 - Ton-sur-ton in middentinten: grijs op greige, olijf op kaki
 - Lichtere olijf, salie en steen als top; op broek- en schoenniveau zijn ze prima
 - Rosé en koper
+
+## Patroon
+
+**Do**
+- Druk patroon mag, als het intern contrast hoog is: ruit of streep met witte lijnen in kernkleuren. Zit op zijn niveau, niet erover
+- Klein licht accent in een patroon (kraagje, bies) stoort niet
+
+**Don't**
+- Patroon in middentinten zonder witte of donkere lijn: valt onder ton-sur-ton
 
 ## Halslijn en kraag
 
@@ -53,7 +64,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Uit het gezicht en naar achteren; hoogte bovenop, korter aan de zijkanten. Belangrijkste stylingkeuze die er is
 
 **Don't**
-- Volume naar voren over het voorhoofd
+- Volume naar voren over het voorhoofd of vol naar de zijkanten: maakt het gezicht breder en ronder (bevestigd op foto, voor-en-na met de vestfoto)
 
 ## Schoenen en accessoires
 

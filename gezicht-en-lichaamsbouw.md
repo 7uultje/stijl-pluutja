@@ -30,13 +30,14 @@
 - Halslijnen die lengte toevoegen zijn de veilige kant: open kraag, puntkraag, V-hals, bovenste knoop open
 - Verbredende halslijnen (brede spread collar, boothals, hoge dichte ronde hals, strakke col) zijn niet fout maar geven geen winst
 - Staande kragen (open overhemdkraag, polokraag omhoog, jack met opstaande kraag) omlijsten de kaak van opzij en compenseren het zachte kinprofiel
-- Het haar uit het gezicht is de belangrijkste stylingkeuze; hoogte bovenop en korter aan de zijkanten werken in dezelfde richting. Geen volume naar voren over het voorhoofd
+- Het haar uit het gezicht is de belangrijkste stylingkeuze; hoogte bovenop en korter aan de zijkanten werken in dezelfde richting. Geen volume naar voren over het voorhoofd of naar de zijkanten
 - Zware wenkbrauwen en volumineus haar verdragen een stevige kraag of jack; hij wordt er niet door overvleugeld
 - Stevig donker brilmontuur past bij het wenkbrauwbeen en de diepliggende ogen
 
 ### Praktijkbevestiging
 
 - Licht grijsbeige gilet tegen het gezicht (met wit overhemd): huid vlak en asgrauw — greige ✗ bevestigd
+- Haar vol naar de zijkanten en naar voren (ruitfoto): gezicht leest direct breder en ronder. Vergelijk met de vestfoto, waar het haar naar achter zit en hetzelfde gezicht langer oogt. Het duidelijkste voor-en-na-paar in de reeks voor "haar naar achter, hoogte bovenop, geen volume aan de zijkanten"
 
 ## Lichaamsbouw
 
@@ -57,3 +58,4 @@
 
 - Fitreferentie: het zuiver witte T-shirt (aansluitend, niet strak) — benchmark voor pasvorm van tops
 - Foto-voorbehoud: lengte en proporties zijn niet uit foto's af te leiden; alleen de opgegeven maten gelden. Selfies overdrijven handen en gezichtsbreedte, laag genomen foto's overdrijven beenlengte
+- Lichtvoorbehoud: warm binnenlicht (gele lamp) maakt een koele huid normaal geel of vaal. Een kleur die daar de huid levendig houdt, is daarmee extra overtuigend; een kleur die daar faalt, is nog niet weerlegd

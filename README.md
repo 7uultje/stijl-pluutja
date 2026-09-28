@@ -13,7 +13,7 @@ Stijladvies voor Pluutja: kleding, schoenen, haar. Gekoppeld aan het Claude-proj
 
 ## Kleurprofiel
 
-Koel (neutrale kant), verzadigd, diep, hoog contrast. Kern: marine, dennengroen, bordeaux, smaragd; zuiver wit als enige lichte kleur. Grootste risico: gedempt-middellicht (stoffig mauve, blauwgrijs, greige). Warm alleen diep als oog-echo (donker olijf, mosgroen, amber). Volledige uitwerking in `kleurprofiel.md`.
+Koel (neutrale kant), verzadigd, diep, hoog contrast. Kern: marine, dennengroen, bordeaux, smaragd; zuiver wit als enige lichte kleur. Grootste risico: gedempt-middellicht (stoffig mauve, blauwgrijs, greige). Warm alleen diep als oog-echo (donker olijf, mosgroen, amber). Analyse in `kleurprofiel.md`, palet met hexcodes in `kleurenpalet.md`.
 
 ## Sterke punten
 
@@ -26,7 +26,8 @@ Zie `dos-donts.md` — wordt bij elke commit aangevuld.
 ## Structuur
 
 - `README.md` — dit overzicht
-- `kleurprofiel.md` — kleuranalyse, vier assen, referentiestukken
+- `kleurprofiel.md` — kleuranalyse, vier assen, regels, referentiestukken
+- `kleurenpalet.md` — palet per kleurgroep met hexcodes en status (✓✓ / ✓ / ~ / ✗, [t] = getest)
 - `gezicht-en-lichaamsbouw.md` — gezichtsvorm, bouw en wat dat betekent voor halslijn, pasvorm en silhouet
 - `sterke-punten.md` — wat er in stylingtermen uit te buiten valt
 - `garderobe-analyse.md` — beoordeling van de kledingstukken op de analysefoto's (✓ / ~ / ✗)

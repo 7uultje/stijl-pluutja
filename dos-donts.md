@@ -1,0 +1,57 @@
+# Do's & don'ts
+
+Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `garderobe-analyse.md` en `gezicht-en-lichaamsbouw.md`.
+
+## Kleur
+
+**Do**
+- Zuiver wit en diep koel (marine, antraciet, zwart) als basis — het witte T-shirt en het marine overhemd zijn de bewezen toppers, herhalen
+- Eén verzadigd kernstuk kopen: kobalt, dennengroen, smaragd, petrol of bordeaux. Ontbreekt nu helemaal en zou meer doen dan alle grijstinten samen
+- Olijf alleen in de donkere versie (~#3E4A2A) bij het gezicht; mosgroen en amber vallen onder dezelfde uitzondering
+- Licht alleen mét contrast: blauw-wit fijngestreept werkt, effen lichtblauw niet (hooguit als losse laag over wit)
+- Warm en koel samen mag, mits beide diep: marine + donker olijf, bordeaux + donker olijf
+- Metaal: zilver, staal, witgoud; klein glanzend geelgoud alleen naast groen of bordeaux
+
+**Don't**
+- Gedempt-middellicht: blauwgrijs, grijsmauve, greige, stoffig — de grootste valkuil, groter dan warm
+- Warme neutralen bij het gezicht: camel, beige, mosterd, crème, kaki
+- Koraalrood (kersrood kan wel)
+- Ton-sur-ton in middentinten: grijs op greige, olijf op kaki
+- Lichtere olijf, salie en steen als top; op broek- en schoenniveau zijn ze prima
+- Rosé en koper
+
+## Halslijn en kraag
+
+**Do**
+- Open kraag, puntkraag, V-hals, bovenste knoop open: voegt lengte toe aan een breed gezicht
+- Stevige kraag of zwaar jack kan; de wenkbrauwen en het haar houden er stand tegen
+
+**Neutraal, geen winst**
+- Brede spread collar, boothals, hoge dichte ronde hals, strakke col
+
+## Pasvorm en silhouet
+
+**Do**
+- Slim fit: aansluitend, niet strak. Het witte T-shirt is de benchmark
+- Doorlopende donkere kolom (marine op marine, antraciet op zwart) verlengt
+- Kleurbreuk hoog (kraag) of laag (schoen)
+- Broek zonder omslag, lengte tot op de schoen
+
+**Don't**
+- Oversized: maakt kleiner
+- Horizontale breuk op heuphoogte: jack dat daar eindigt, contrasterende riem, lichte broek onder donker shirt
+- Bundelende broekspijpen
+
+## Haar
+
+**Do**
+- Uit het gezicht; hoogte bovenop, korter aan de zijkanten. Belangrijkste stylingkeuze die er is
+
+## Schoenen en accessoires
+
+**Do**
+- Schoen in de kleur van de broek: verlengt het been. Onder donkere jeans is zwart daarmee de veilige keuze
+- Zwart is een volwaardige neutrale: tas, koffer, montuur
+
+**Don't**
+- Beige sneakers: warm en breken de lijn. Wit is qua kleur beter dan beige, maar verkort onder donkere jeans nog steeds het been — zwart wint op beide punten

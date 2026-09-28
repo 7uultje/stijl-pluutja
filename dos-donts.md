@@ -13,7 +13,7 @@ Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er
 - Metaal: zilver, staal, witgoud; klein glanzend geelgoud alleen naast groen of bordeaux
 
 **Don't**
-- Gedempt-middellicht: blauwgrijs, grijsmauve, greige, stoffig — de grootste valkuil, groter dan warm
+- Gedempt-middellicht: blauwgrijs, grijsmauve, greige, stoffig — de grootste valkuil, groter dan warm. Greige is ook in de praktijk bevestigd: licht grijsbeige gilet bij het gezicht maakt de huid vlak en asgrauw, zelfs met wit overhemd eronder
 - Warme neutralen bij het gezicht: camel, beige, mosterd, crème, kaki
 - Koraalrood (kersrood kan wel)
 - Ton-sur-ton in middentinten: grijs op greige, olijf op kaki
@@ -24,6 +24,7 @@ Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er
 
 **Do**
 - Open kraag, puntkraag, V-hals, bovenste knoop open: voegt lengte toe aan een breed gezicht
+- Staande kragen: open overhemdkraag, polokraag omhoog, jack met opstaande kraag. Omlijsten de kaak van opzij en compenseren het zachte kinprofiel
 - Stevige kraag of zwaar jack kan; de wenkbrauwen en het haar houden er stand tegen
 
 **Neutraal, geen winst**
@@ -45,7 +46,10 @@ Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er
 ## Haar
 
 **Do**
-- Uit het gezicht; hoogte bovenop, korter aan de zijkanten. Belangrijkste stylingkeuze die er is
+- Uit het gezicht en naar achteren; hoogte bovenop, korter aan de zijkanten. Belangrijkste stylingkeuze die er is
+
+**Don't**
+- Volume naar voren over het voorhoofd
 
 ## Schoenen en accessoires
 
@@ -53,6 +57,7 @@ Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er
 - Schoenkleur in het algemeen: wit of zwart, geen beige
 - Schoen in de kleur van de broek verlengt het been: onder donkere jeans dus donkere schoenen (zwart, donkerblauw)
 - Zwart is een volwaardige neutrale: tas, koffer, montuur
+- Bril: stevig donker montuur, past bij het wenkbrauwbeen en de diepliggende ogen
 
 **Don't**
 - Beige sneakers: warm en breken de lijn

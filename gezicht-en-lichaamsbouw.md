@@ -17,12 +17,26 @@
 - Mond: volle lippen, duidelijke cupidoboog
 - Haar: dik, donker, sterk krullend, volumineus bovenop; uit het gezicht gedragen
 
+### Profiel en driekwart
+
+- Voorhoofd hoog en recht, duidelijk wenkbrauwbeen; ogen liggen daardoor iets dieper
+- Neusrug recht, punt licht opgewipt
+- Bovenlip iets naar voren; kin in profiel zacht en iets terugliggend t.o.v. de lippenlijn. Van voren leest de kin markant (brede kaak), in profiel niet
+- Breedte zit in jukbeenderen en kaak, niet in de wangen: breed maar niet rond; kin versmalt in driekwart
+- Kaakhoek afgerond, hals vrij lang
+
 ### Wat dit betekent
 
 - Halslijnen die lengte toevoegen zijn de veilige kant: open kraag, puntkraag, V-hals, bovenste knoop open
 - Verbredende halslijnen (brede spread collar, boothals, hoge dichte ronde hals, strakke col) zijn niet fout maar geven geen winst
-- Het haar uit het gezicht is de belangrijkste stylingkeuze; hoogte bovenop en korter aan de zijkanten werken in dezelfde richting
+- Staande kragen (open overhemdkraag, polokraag omhoog, jack met opstaande kraag) omlijsten de kaak van opzij en compenseren het zachte kinprofiel
+- Het haar uit het gezicht is de belangrijkste stylingkeuze; hoogte bovenop en korter aan de zijkanten werken in dezelfde richting. Geen volume naar voren over het voorhoofd
 - Zware wenkbrauwen en volumineus haar verdragen een stevige kraag of jack; hij wordt er niet door overvleugeld
+- Stevig donker brilmontuur past bij het wenkbrauwbeen en de diepliggende ogen
+
+### Praktijkbevestiging
+
+- Licht grijsbeige gilet tegen het gezicht (met wit overhemd): huid vlak en asgrauw — greige ✗ bevestigd
 
 ## Lichaamsbouw
 

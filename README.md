@@ -22,6 +22,7 @@ _Nog in te vullen._
 
 - `README.md` — dit overzicht
 - `kleurprofiel.md` — kleuranalyse, vier assen, referentiestukken
+- `garderobe-analyse.md` — beoordeling van de kledingstukken op de analysefoto's (✓ / ~ / ✗)
 - `maten.md` — kledingmaten per merk
 - `koopprincipes.md` — koopprincipes
 - `dos-donts.md` — wat wel en niet werkt (volgt)

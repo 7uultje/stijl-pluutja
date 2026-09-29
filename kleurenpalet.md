@@ -54,13 +54,14 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 - Flessengroen `#0B3D2E` ✓✓
 - Smaragd `#0E8A5F` ✓✓
 - Donker koel olijf `#3E4A2A` ✓✓ [t, jack] — volwaardig, ook effen bij het gezicht; hoort gewoon bij het koele palet en is geen warme uitzondering
+- Koel olijf, halve stap lichter `#4F5B3F` ✓ [t, polo] — zelfde familie als het jack, grijzig groen zonder geel; temperatuur klopt, diepte zit net aan de grens. Lichter dan dit valt af
 - Donker warm olijf `#5C5B1F` ✓ accent [nt als effen stuk] — dit is de warme grens en de oog-echo; zie Warme uitzonderingen
 - Mosgroen `#4A5D23` ✓ oog-echo, liefst als accent (warme kant)
 - Salie `#9CA98A` ~ alleen broek/short [t]
 - Lichte olijf `#A3A17A` ✗ niet getest, verdacht
 - Geelachtig kaki `#8A8560` ✗
 
-**Koel of warm olijf, hoe zie je dat?** Koel olijf heeft grijs of blauw in zich en leest bijna als donker grijsgroen; warm olijf heeft geel in zich en schuift bij daglicht richting kaki of mosterd. Test: leg het naast marine of antraciet. Koel olijf gaat erin op, warm olijf springt er gelig uit. De olijfpolo op de foto's is niet zeker koel, maar was diep en donker genoeg om hoe dan ook te werken; bij diep olijf is het onderscheid pas belangrijk als het stuk effen en groot bij het gezicht zit.
+**Koel of warm olijf, hoe zie je dat?** Koel olijf heeft grijs of blauw in zich en leest als donker grijsgroen; warm olijf heeft geel in zich en schuift bij daglicht richting kaki, legergroen of mosterd. Snelste test: het stuk naast het jack leggen bij een raam op een bewolkte dag (geen zon: die maakt alles warmer, schaduw maakt alles koeler). Geen geel te zien = koel, blijft in de groengroep. Duidelijk geler dan het jack = warm, gaat naar de accenten. Het onderscheid telt pas bij een groot effen stuk vlak bij het gezicht; bij een diep, donker olijf werkt het hoe dan ook.
 
 ### Rood / bordeaux / roze
 - Kersrood `#C8102E` ✓✓ [t, ruit]
@@ -108,7 +109,7 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 
 ## Referenties
 - Witbalans in foto's: zuiver wit T-shirt `#FAFAFA`
-- Koel olijf, bewezen: donkerolijf jack `#3E4A2A`
+- Koel olijf, bewezen: donkerolijf jack `#3E4A2A`; de polo `#4F5B3F` markeert de lichtste koele olijf die nog werkt
 - Warme grens: donker warm olijf `#5C5B1F`
 - Negatieve referentie: grijsmauve T-shirt `#A896A2`
 - Patroontest: ruit marine/dennengroen/rood/wit

@@ -18,7 +18,7 @@ Per kledingstuk, in volgorde van de foto's. ✓ = staat goed, ~ = neutraal/doet 
 | Jeans, medium-donker (meerdere foto's) | ✓ | Koel, diep genoeg; onopvallend goed |
 | Beige Converse | ~ | Warm, maar op voetniveau irrelevant; wit of zwart zou de contrastregel beter dienen |
 | Zuiver wit T-shirt (Museumplein, terras, straat) | ✓✓ | Het beste stuk van alles: hoog contrast, koel, scherpt de trekken. Verdient herhaling |
-| Donker olijf polo (koffer) | ✓ | Diep en grijzig genoeg; temperatuur (koel of warm olijf) niet zeker, maar bij deze diepte werkt het hoe dan ook; ogen kleuren mee |
+| Koel olijf polo `#4F5B3F` (koffer, schaduw) | ✓ | Grijzig groen zonder geel, zelfde familie als het jack maar een halve stap lichter: temperatuur klopt, diepte net aan de grens. Daarom ✓ en niet ✓✓. Voorbehoud: schaduw maakt koeler; oogt hij bij daglicht naast het jack duidelijk geler, dan is het warm olijf en schuift hij naar de accenten |
 | Steen/beige cargo short (koffer) | ~ | Warm, maar ver van het gezicht; totaalbeeld met de olijfpolo is wel laag in contrast |
 | Marine chambray/gebreid overhemd (café) | ✓✓ | Naast wit het sterkste stuk: diep, koel, verzadigd, en het zachte materiaal stoort niet omdat de kleur zelf niet gedempt is |
 | Antraciet fijngestreept overhemd (Chinatown) | ✓ | Diep neutraal, werkt goed; iets minder levendig dan marine |
@@ -53,4 +53,4 @@ Per kledingstuk, in volgorde van de foto's. ✓ = staat goed, ~ = neutraal/doet 
 - De beste stukken zijn allemaal óf zuiver wit óf diep koel (marine, antraciet, navy jack, koel olijf). Daar zit het patroon.
 - Alle missers zijn middellichte, gedempte tinten: blauwgrijs, grijsmauve, greige. Niet warm/koel is de valkuil, maar vaal.
 - In de recente garderobe ontbreekt een verzadigde kleur: geen kobalt, dennengroen, smaragd, petrol of bordeaux. Dat zijn precies de kernkleuren; één stuk daarin zou meer doen dan alle grijstinten samen. De ruit van de tienerfoto bewijst dat dennengroen en kersrood bij hem werken.
-- Olijf komt veel voor en werkt, maar alleen in de donkere versie. Koel donker olijf is volwaardig; warm donker olijf blijft accent. De lichtere salie en steen blijven beter op broek- en schoenniveau.
+- Olijf komt veel voor en werkt, maar alleen in de donkere versie. Koel donker olijf is volwaardig (jack ✓✓, polo ✓ als lichtste grens); warm donker olijf blijft accent. De lichtere salie en steen blijven beter op broek- en schoenniveau.

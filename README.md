@@ -21,15 +21,16 @@ Twee dingen dragen alles: het natuurlijke hoge contrast en het haar. Volledige l
 
 ## Do's & don'ts
 
-Zie `dos-donts.md` — wordt bij elke commit aangevuld.
+Zie `dos-donts.md` — wordt bij elke commit aangevuld. Voor in de winkel: `toetskaart.md`.
 
 ## Structuur
 
 - `README.md` — dit overzicht
-- `kleurprofiel.md` — kleuranalyse, vier assen, regels, referentiestukken
-- `kleurenpalet.md` — palet per kleurgroep met hexcodes en status (✓✓ / ✓ / ~ / ✗, [t] = getest)
+- `toetskaart.md` — samenvatting om mee te nemen naar de winkel; open punten staan gemarkeerd
+- `kleurprofiel.md` — kleuranalyse, vier assen, regels, patroon en print, seizoen, referentiestukken
+- `kleurenpalet.md` — palet per kleurgroep met hexcodes en status (✓✓ / ✓ / ~ / ✗, [t] = getest, [nt] = niet getest)
 - `materiaal-en-afwerking.md` — glad vs. dof, gemêleerd en verwassen, en wat dat met de kleur doet
-- `gezicht-en-lichaamsbouw.md` — gezichtsvorm, bouw en wat dat betekent voor halslijn, pasvorm en silhouet
+- `gezicht-en-lichaamsbouw.md` — gezichtsvorm, bouw, hoofd (bril, baard, haar), jassen, broeken en schoenen, pasvormbenchmark
 - `sterke-punten.md` — wat er in stylingtermen uit te buiten valt
 - `garderobe-analyse.md` — beoordeling van de kledingstukken op de analysefoto's (✓ / ~ / ✗)
 - `dos-donts.md` — wat wel en niet werkt, samengevat per categorie

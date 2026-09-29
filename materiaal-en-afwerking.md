@@ -20,3 +20,14 @@ Zijn profiel draait op verzadiging en contrast. Een gladde, dichte stof (poplin,
 ## Grens
 
 - Echte glans (satijn, zijde-look, glimmend polyester) is een ander verhaal: dat is geen kwestie van kleurprofiel maar van leeftijd en gelegenheid. Voor hem: glans in details (jack, schoenen, metaal), niet in het hoofdstuk
+
+## Verdieping
+
+[getest] = foto onderbouwt het · [aanname] = volgt uit het profiel, niet gezien
+
+Materiaal werkt bij hem als een tweede verzadigingsknop: het schuift een kleur langs de as gedempt ↔ verzadigd. De regel: hoe dieper de kleur, hoe meer textuur die verdraagt. Een zachte stof ondermijnt geen diepe kleur (de marine chambray bewees dat [getest]); hij ondermijnt een middenkleur, want daar was al weinig verzadiging te verliezen.
+
+- Glans: verdraagt hij goed, en de reden is niet alleen "hoog contrast" maar dat glans licht en donker naast elkaar zet en dus contrast toevoegt. Nylon jack [getest], leer en gepoetst metaal [aanname, consistent]. Grens is satijn/glimpolyester, en dat is een leeftijds- en gelegenheidskwestie, geen profielkwestie
+- Ribbel en corduroy: prima in marine, bordeaux, flessengroen, zwart; corduroy in camel of taupe valt af op kleur, niet op structuur
+- Wol: fijne gladde merino ✓; harige, gemêleerde of tweedachtige wol ~ tot ✗, omdat die vezelmix optisch grijs toevoegt
+- Gemêleerd (heather), geborsteld, fleece: het materiaal doet wat grijsmauve doet [getest, twee T-shirts]

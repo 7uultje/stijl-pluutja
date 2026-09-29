@@ -1,7 +1,9 @@
 # Kleurenprofiel — Pluut
 
 Assen: koel (neutrale kant) · verzadigd · diep · contrast hoog
-Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden bij het gezicht · [t] getest op foto
+Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden bij het gezicht · [t] getest op foto · [nt] niet getest, verwachting
+
+Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 
 ## IJkpunt
 - Kobaltblauw `#1E4CA1` — zit op alle vier de assen precies goed
@@ -22,6 +24,15 @@ Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden b
 | Beige | koele steen | `#B8B2A3` | ~ alleen broek/schoen |
 | Beige | licht zand | `#E8E2D6` | ~ alleen broek/schoen |
 
+## Denim als kleur
+
+| Wassing | Hex | Status |
+|---|---|---|
+| Raw / donker | `#1F2F4F` | ✓✓ — kolom onder zwart, antraciet of marine |
+| Medium | `#3E5C8A` | ✓ [t] |
+| Licht | `#9DB4CF` | ~ alleen als broek; laagste verzadiging in de kast |
+| Gebleekt / verwassen | — | ✗ breekt de kolom |
+
 ## Kleurgroepen
 
 ### Blauw
@@ -30,8 +41,9 @@ Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden b
 - Diep marine `#1B2A4A` ✓✓ [t]
 - Petrol `#0F6B7A` ✓✓
 - Teal `#0E7C86` ✓
+- Helder turquoise `#00A9B5` [nt] verwacht ✓ — sterkste kandidaat om te testen, zit tussen teal en ijsblauw en is verzadigd
 - IJsblauw `#CFE3F2` ~ accent, streep of onder donker
-- Helder hemelsblauw `#8EC5F0` ~ streep [t, gestreept overhemd]
+- Helder hemelsblauw `#8EC5F0` ~ streep [t, gestreept overhemd]; als effen zomershirt net-✓
 - Stoffig blauwgrijs `#A8B8C8` ✗ [t]
 - Poederblauw `#B4C7D9` ✗
 
@@ -45,11 +57,13 @@ Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden b
 - Lichte olijf `#A3A17A` ✗ niet getest, verdacht
 - Geelachtig kaki `#8A8560` ✗
 
-### Rood / bordeaux
+### Rood / bordeaux / roze
 - Kersrood `#C8102E` ✓✓ [t, ruit]
 - Robijn `#9B111E` ✓
 - Bordeaux `#6E1B2E` ✓✓
 - Framboos `#A8234F` ✓
+- Koel felroze / magenta [nt] ~ als fuchsia: doet geen kwaad, voegt weinig toe
+- Pastelroze [nt] ✗ licht én gedempt
 - Koraal `#E8743B` ✗ [t, jeugd]
 - Zalm `#F4A08C` ✗
 
@@ -59,6 +73,10 @@ Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden b
 - Fuchsia `#C2185B` ~ doet geen kwaad, voegt weinig toe
 - Lavendel `#B7A8D6` ~ accent, nooit effen
 - Stoffig mauve `#A896A2` ✗ [t] — negatieve referentie
+
+### Geel / oranje
+- Helder citroengeel [nt] ~ koel en verzadigd, maar licht; als accent denkbaar. Het gele deel van de Spiderman-print stoorde niet, maar dat is te klein voor een oordeel
+- Voluit oranje [nt] verwacht ✗ — warm, geen ankerpunt in de huid
 
 ### Warme uitzonderingen (oog-echo, alleen diep en als accent)
 - Amber `#B5651D` ✓ accent
@@ -77,6 +95,7 @@ Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden b
 - Warm + koel mag, mits beide diep: marine + donker olijf, antraciet + mosgroen, bordeaux + donker olijf
 - Middellicht en gedempt is het grootste bezwaar, groter dan warm
 - Lichte kleuren alleen als streep, accent of onder een donkere laag; effen licht = wit
+- Bij prints tellen de printkleuren mee als kleur bij het gezicht
 
 ## Referenties
 - Witbalans in foto's: zuiver wit T-shirt `#FAFAFA`

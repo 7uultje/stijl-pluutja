@@ -1,6 +1,6 @@
 # Do's & don'ts
 
-Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `kleurenpalet.md`, `materiaal-en-afwerking.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md` en `sterke-punten.md`.
+Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `kleurenpalet.md`, `materiaal-en-afwerking.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md` en `sterke-punten.md`. Seizoensvertaling: `sterke-kleuren-najaar-2026.md`.
 
 ## Vuistregel
 
@@ -19,13 +19,14 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Licht alleen mét contrast: blauw-wit fijngestreept werkt, effen lichtblauw niet (hooguit als losse laag over wit)
 - Warm en koel samen mag, mits beide diep: marine + warm olijf, bordeaux + espresso
 - Metaal: zilver, staal, witgoud; klein glanzend geelgoud alleen naast groen of bordeaux
-- Te testen: helder turquoise, verwacht ✓. Geel alleen als accent, oranje verwacht ✗
-- Zomer: een verzadigd middellicht blauw of groen (hemelsblauw, turquoise) mag dan als effen shirt; amber en warm olijf zitten dan op hun best. Winter: strengste palet, wit/zwart/marine/verzadigd, kolom levert het meest op
+- Te testen: helder turquoise, verwacht ✓. Aubergine (seizoensaccent 2026), verwacht ✓, eerst als klein accent. Geel alleen als accent, oranje verwacht ✗
+- Zomer: een verzadigd middellicht blauw of groen (hemelsblauw, turquoise) mag dan als effen shirt; amber en warm olijf zitten dan op hun best. Herfst: zelfde kleuren als winter, lichtere stof en laagjes; dennengroen, bordeaux en espresso zijn zijn "herfstkleuren". Winter: strengste palet, wit/zwart/marine/verzadigd, kolom levert het meest op
 - Hexcodes per kleur: zie `kleurenpalet.md`
 
 **Don't**
 - Gedempt-middellicht: blauwgrijs, grijsmauve, greige, stoffig — de grootste valkuil, groter dan warm. Greige is ook in de praktijk bevestigd: licht grijsbeige gilet bij het gezicht maakt de huid vlak en asgrauw, zelfs met wit overhemd eronder
 - Warme neutralen bij het gezicht: camel, beige, mosterd, crème, kaki
+- Trend-herfstkleuren laten liggen, ook als ze overal hangen: roest, terracotta, oker, saffraan, sage/grijsgroen, botergeel, taupe. "Herfst" verandert bij hem de stof, niet de kleur
 - Lichter of oranjer bruin: melkchocolade, tabak, cognac. Het bruine H&M-ruitje viel daarop af
 - Bruin naast beige of olijf: wordt tonaal-warm
 - Warm olijf als groot effen stuk bij het gezicht: daarvoor is het de grens, niet de kern
@@ -54,6 +55,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 
 **Do**
 - Groot en scherp boven klein en zacht: de eis is intern contrast, niet schaal. Ruit of streep met witte lijnen in kernkleuren zit op zijn niveau
+- Ruit/tartan (trend 2026): alleen in bordeaux, dennengroen, marine of zwart met scherpe lijnen; camel-ruit valt af
 - Printkleuren tellen mee als kleur bij het gezicht: verzadigd rood/blauw/geel op donkergrijs werkte, gedempte opdruk op greige niet
 - Logo-shirt: diepe basis, logo wit of een paletkleur
 - All-over print met donkere grond en verzadigd motief
@@ -62,6 +64,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 
 **Don't**
 - Klein druk patroon met weinig contrast (grijs micro-ruitje, fijn gemêleerd): mengt van een afstand tot een stoffige middentint
+- Fair Isle / patroonbreisel in gedempte warme tinten: meeste seizoensversies vallen hierop af; alleen met donkere grond en verzadigd motief
 - Horizontale brede strepen bij het gezicht: verbreden
 - Standaardcamouflage: drie gedempte warme tinten. Donkere navy/zwart-camo zou kunnen
 - Vintage of verwassen prints

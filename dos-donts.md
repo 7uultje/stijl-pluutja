@@ -12,6 +12,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Zuiver wit en diep koel (marine, antraciet, zwart) als basis — het witte T-shirt en het marine overhemd zijn de bewezen toppers, herhalen
 - Effen overhemd: wit, zwart, dan espresso/donker chocoladebruin als derde keuze
 - Eén verzadigd kernstuk kopen: kobalt, dennengroen, smaragd, petrol of bordeaux. Ontbreekt in de huidige garderobe en zou meer doen dan alle grijstinten samen. Kleuren die bij anderen "te hard" zijn, zitten bij hem goed
+- Petrol / diep teal: volwaardige kernkleur, nu (najaar 2026) overal te vinden. Twee winkeltests: diep genoeg (petrol en donker teal ✓, licht/fel teal is zomer) en niet grijs (naast marine houden: moet er duidelijk groener en even diep uitspringen, niet grauwer)
 - Dennengroen en kersrood bij het gezicht: bevestigd op foto (ruit). Rood moet koel en diep zijn; koraal en zalm niet
 - Donker koel olijf (`#3E4A2A`, het jack): volwaardig, ook effen bij het gezicht. Hoort bij het koele palet, geen uitzondering
 - Donker warm olijf (`#5C5B1F`), mosgroen en amber: alleen als accent; laten de ogen oplichten. Test koel/warm: naast marine houden, warm olijf springt er gelig uit
@@ -20,11 +21,12 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Warm en koel samen mag, mits beide diep: marine + warm olijf, bordeaux + espresso
 - Metaal: zilver, staal, witgoud; klein glanzend geelgoud alleen naast groen of bordeaux
 - Te testen: helder turquoise, verwacht ✓. Aubergine (seizoensaccent 2026), verwacht ✓, eerst als klein accent. Geel alleen als accent, oranje verwacht ✗
-- Zomer: een verzadigd middellicht blauw of groen (hemelsblauw, turquoise) mag dan als effen shirt; amber en warm olijf zitten dan op hun best. Herfst: zelfde kleuren als winter, lichtere stof en laagjes; dennengroen, bordeaux en espresso zijn zijn "herfstkleuren". Winter: strengste palet, wit/zwart/marine/verzadigd, kolom levert het meest op
+- Zomer: een verzadigd middellicht blauw of groen (hemelsblauw, turquoise) mag dan als effen shirt; amber en warm olijf zitten dan op hun best. Herfst: zelfde kleuren als winter, lichtere stof en laagjes; petrol, dennengroen, bordeaux en espresso zijn zijn "herfstkleuren". Winter: strengste palet, wit/zwart/marine/verzadigd, kolom levert het meest op
 - Hexcodes per kleur: zie `kleurenpalet.md`
 
 **Don't**
 - Gedempt-middellicht: blauwgrijs, grijsmauve, greige, stoffig — de grootste valkuil, groter dan warm. Greige is ook in de praktijk bevestigd: licht grijsbeige gilet bij het gezicht maakt de huid vlak en asgrauw, zelfs met wit overhemd eronder
+- Petrolgrijs en gedempt blauwgroen: de grijze versie van petrol is dezelfde valkuil, ook al heet het petrol
 - Warme neutralen bij het gezicht: camel, beige, mosterd, crème, kaki
 - Trend-herfstkleuren laten liggen, ook als ze overal hangen: roest, terracotta, oker, saffraan, sage/grijsgroen, botergeel, taupe. "Herfst" verandert bij hem de stof, niet de kleur
 - Lichter of oranjer bruin: melkchocolade, tabak, cognac. Het bruine H&M-ruitje viel daarop af
@@ -40,7 +42,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 **Do**
 - Glad en dicht: poplin, effen jersey, fijngebreide merino, denim in egale wassing, nylon shell, leer. Laat de kleur op volle sterkte zien
 - Lichte glans in details: nylon jack, gepoetste schoenen, leren riem, gepolijst zilver/staal, glanzend brilmontuur. Glans voegt contrast toe
-- Ribbel en corduroy in marine, bordeaux, flessengroen of zwart
+- Ribbel en corduroy in marine, bordeaux, flessengroen, petrol of zwart
 - Toets: hoe dieper de kleur, hoe meer textuur die verdraagt. Zachte textuur mag zolang de kleur verzadigd blijft (de marine chambray)
 
 **Don't**

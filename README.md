@@ -13,7 +13,7 @@ Stijladvies voor Pluutja: kleding, schoenen, haar. Gekoppeld aan het Claude-proj
 
 ## Kleurprofiel
 
-Koel (neutrale kant), verzadigd, diep, hoog contrast. Kern: marine, dennengroen, bordeaux, smaragd; zuiver wit als enige lichte kleur. Grootste risico: gedempt-middellicht (stoffig mauve, blauwgrijs, greige). Warm alleen diep als oog-echo (donker olijf, mosgroen, amber). Analyse in `kleurprofiel.md`, palet met hexcodes in `kleurenpalet.md`.
+Koel (neutrale kant), verzadigd, diep, hoog contrast. Kern: marine, dennengroen, bordeaux, smaragd, donker koel olijf; zuiver wit als enige lichte kleur. Grootste risico: gedempt-middellicht (stoffig mauve, blauwgrijs, greige). Warm alleen diep: espresso/donker chocolade ook effen, warm olijf, mosgroen en amber als accent. Analyse in `kleurprofiel.md`, palet met hexcodes in `kleurenpalet.md`.
 
 ## Sterke punten
 

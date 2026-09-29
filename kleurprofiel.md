@@ -27,7 +27,7 @@ Geen seizoenslabels als profielbeschrijving: "deep winter" is de dichtstbijzijnd
 2. Olijf-hazel middenzone — schuift tussen bruin en groen afhankelijk van licht en omgeving
 3. Donkere grijsbruine limbale ring — draagt bij aan het hoge contrastniveau
 
-**Gedrag:** kleurt mee met omgeving, maar minder sturend dan bij een medium-contrast profiel. Warme donkere kleuren nabij het gezicht (donker olijf, mosgroen, amber) laten de goudkern en het groen oplichten; koele kleuren laten het oog als donker bruin lezen. Dat laatste is geen nadeel: het profiel draait op contrast, niet op oogkleur, en een donker lezend oog houdt het contrast hoog.
+**Gedrag:** kleurt mee met omgeving, maar minder sturend dan bij een medium-contrast profiel. Warme donkere kleuren nabij het gezicht (warm olijf, mosgroen, amber, espresso) laten de goudkern en het groen oplichten; koele kleuren laten het oog als donker bruin lezen. Dat laatste is geen nadeel: het profiel draait op contrast, niet op oogkleur, en een donker lezend oog houdt het contrast hoog.
 
 **Relevantie voor het framework:** de oogkleuren zijn de énige toegestane warme uitzonderingen. Ze werken omdat ze diep zijn en omdat ze letterlijk in het gezicht voorkomen; dezelfde warmte in een lichte of gedempte tint (kaki, camel, mosterd) heeft geen ankerpunt in de huid en valt af.
 
@@ -38,10 +38,11 @@ Geen seizoenslabels als profielbeschrijving: "deep winter" is de dichtstbijzijnd
 - **Zuiver wit is de enige lichte kleur die zelfstandig werkt;** alle andere lichte tinten (lichtblauw, ijsblauw, lavendel) alleen als streep, accent of onder een donkere laag. Bij effen wit of lichtblauw: wit
 - **Koel diep rood bij het gezicht ✓:** kersrood is getest (ruit, warm binnenlicht) en houdt de huid levendig; koraal en zalm blijven ✗
 - **Patronen: hoog intern contrast mag druk zijn.** Zie sectie Patroon en print
-- **Warm alleen diep en als oog-echo:** donker olijf (~#3E4A2A) is getest en goed; mosgroen en amber zijn daaruit afgeleid; gelere of lichtere olijf niet getest en verdacht. Warme neutralen (camel, beige, mosterd, crème) ✗
+- **Olijf komt in twee soorten en die horen in verschillende vakjes.** Donker koel olijf (`#3E4A2A`, het jack, getest) heeft grijs in zich en hoort gewoon bij het koele palet: volwaardig, ook effen bij het gezicht, geen uitzondering. Donker warm olijf (`#5C5B1F`) heeft geel in zich en is de warme grens: als accent en oog-echo, niet als groot effen stuk. Lichtere olijf, kaki en salie vallen af bij het gezicht ongeacht temperatuur. Zie `kleurenpalet.md` voor hoe je koel en warm olijf uit elkaar houdt
+- **Warm alleen diep en als oog-echo:** warm olijf, mosgroen en amber als accent. Warme neutralen (camel, beige, mosterd, crème) ✗
 - **Donkerbruin is een gevolg van het profiel, geen uitzondering erop.** Espresso en donker chocolade zijn diep en dicht, dus goed op de twee assen die de doorslag geven; het is de oogkleur in het donker (laat de ogen lichter en goudkleuriger lezen) en het houdt het contrast met het bijna-zwarte haar intact. Eerder als ~ genoteerd omdat het warm is; dat was de temperatuur-as te zwaar laten wegen. Grens zit dichtbij: alleen de donkerste bruinen, met zwart of grijs erin en niet met oranje, glad en niet geborsteld, naast wit, zwart of marine. Melkchocolade, tabak, cognac en camel vallen af
 - **Contrast-matchregel:** combinaties met hoog intern contrast (wit + marine, zwart + wit, smaragd + wit) matchen; ton-sur-ton in middentinten (grijs op greige, olijf op kaki) zit onder het eigen niveau en maakt het gezicht vlakker dan het is
-- **Warm en koel mogen samen in één outfit, mits beide diep:** marine + donker olijf, antraciet + mosgroen, bordeaux + donker olijf
+- **Warm en koel mogen samen in één outfit, mits beide diep:** marine + warm olijf, antraciet + mosgroen, bordeaux + espresso
 - **Metaal:** zilver, staal, witgoud eerste keus; geelgoud toegestaan als het klein en glanzend is en naast groen of bordeaux zit; rosé en koper ✗
 
 ## Patroon en print
@@ -62,7 +63,7 @@ Hoog eigen contrast betekent dat hij grote schaal aankan; de eis zit niet in de 
 
 Bruining verlaagt het contrast een stap en legt warmte over de huid. Dat verschuift het palet één stap, niet meer:
 
-- **Zomer:** een verzadigd middellicht blauw of groen als effen shirt (hemelsblauw, helder turquoise) gaat van ~ naar net-✓; de warme accenten (amber, koel olijf) zitten dan op hun best. Gedempt en licht-warm blijven ✗; wit blijft de beste lichte kleur, alleen niet meer de enige
+- **Zomer:** een verzadigd middellicht blauw of groen als effen shirt (hemelsblauw, helder turquoise) gaat van ~ naar net-✓; de warme accenten (amber, warm olijf) zitten dan op hun best. Gedempt en licht-warm blijven ✗; wit blijft de beste lichte kleur, alleen niet meer de enige
 - **Winter:** bleekste huid, hoogste contrast, strengste palet: zuiver wit, zwart, marine, verzadigd. Lichtblauw als effen shirt valt terug naar ~. Dit is het seizoen waarin de kolom (zwart op zwart, marine op marine) het meest oplevert
 
 ## Referentiegereedschap
@@ -71,6 +72,7 @@ Bruining verlaagt het contrast een stap en legt warmte over de huid. Dat verschu
 |---|---|---|---|
 | Ankerstuk | kobaltblauw | ~#1E4CA1 | benchmark voor kleurbeslissingen; een kleur die op alle vier de assen precies goed zit |
 | In-shot witbalansreferentie | zuiver wit T-shirt | ~#FAFAFA | werkt betrouwbaarder als referentie dan een gekleurd kledingstuk, en wordt vaak gedragen |
-| Grenstest | donkerolijven jack | ~#3E4A2A | bewezen goed bij bewolkt daglicht; markeert de warme grens van het profiel |
+| Koel-olijfreferentie | donkerolijven jack | ~#3E4A2A | bewezen goed bij bewolkt daglicht; koel olijf, hoort volledig bij het palet |
+| Warme grens | donker warm olijf | ~#5C5B1F | tot hier mag warm, en alleen diep en als accent; nog niet als effen stuk getest |
 | Negatieve referentie | grijsmauve T-shirt | ~#A896A2 | laat in één foto zien wat gedempt-middellicht doet; handig om twijfelgevallen tegen af te zetten |
 | Patroontest | ruit marine/dennengroen/rood/wit | — | bewijst dat druk + hoog intern contrast werkt, en dat dennengroen en kersrood bij het gezicht kunnen; zelfs bij warm binnenlicht |

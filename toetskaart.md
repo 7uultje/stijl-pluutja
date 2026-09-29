@@ -5,8 +5,9 @@ Snel checken of een kledingstuk past. Alleen wat vaststaat; open punten staan al
 ## 1. Kleur (laag binnen ~30 cm van het gezicht)
 
 - Type: koel (neutrale kant) · verzadigd · diep · hoog contrast. Geen seizoenslabel.
-- IJkpunt: kobaltblauw `#1E4CA1`. Witbalans bij foto's: zuiver wit T-shirt. Warme grens: donkerolijf jack `#3E4A2A`. Negatieve referentie: grijsmauve T-shirt.
-- Goed: zuiver wit, zwart, diep marine, antraciet; kobalt, petrol, dennengroen, flessengroen, smaragd, kersrood, bordeaux, aubergine; espresso/donker chocoladebruin (glad, naast wit, zwart of marine). Als accent: donker olijf, mosgroen, amber.
+- IJkpunt: kobaltblauw `#1E4CA1`. Witbalans bij foto's: zuiver wit T-shirt. Koel olijf, bewezen: het jack `#3E4A2A`. Warme grens: donker warm olijf `#5C5B1F`. Negatieve referentie: grijsmauve T-shirt.
+- Goed: zuiver wit, zwart, diep marine, antraciet; kobalt, petrol, dennengroen, flessengroen, smaragd, donker koel olijf, kersrood, bordeaux, aubergine; espresso/donker chocoladebruin (glad, naast wit, zwart of marine). Als accent: donker warm olijf, mosgroen, amber.
+- Koel of warm olijf? Naast marine houden: koel olijf gaat erin op, warm olijf springt er gelig uit. Bij diep olijf maakt het pas uit als het stuk effen en groot bij het gezicht zit.
 - Effen overhemd: wit, zwart, dan espresso als derde keuze.
 - Vermijden bij het gezicht: alles gedempt-middellicht (blauwgrijs, grijsmauve, greige, stoffig), warme neutralen (camel, beige, mosterd, crème, kaki), lichter of oranjer bruin (melkchocolade, tabak, cognac), koraal, pastel, crème-wit.
 - Vuistregels: alleen de bovenste laag bij het gezicht telt; broeken en schoenen zijn kleurvrij maar niet lijnvrij (zie pasvorm); bij prints tellen de printkleuren mee als kleur bij het gezicht.

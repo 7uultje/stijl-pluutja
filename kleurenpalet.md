@@ -53,11 +53,14 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 - Dennengroen `#1F5A3A` ✓✓ [t, ruit]
 - Flessengroen `#0B3D2E` ✓✓
 - Smaragd `#0E8A5F` ✓✓
-- Donker olijf `#3E4A2A` ✓ [t] — warme grens, werkt door diepte
-- Mosgroen `#4A5D23` ✓ oog-echo, liefst als accent
+- Donker koel olijf `#3E4A2A` ✓✓ [t, jack] — volwaardig, ook effen bij het gezicht; hoort gewoon bij het koele palet en is geen warme uitzondering
+- Donker warm olijf `#5C5B1F` ✓ accent [nt als effen stuk] — dit is de warme grens en de oog-echo; zie Warme uitzonderingen
+- Mosgroen `#4A5D23` ✓ oog-echo, liefst als accent (warme kant)
 - Salie `#9CA98A` ~ alleen broek/short [t]
 - Lichte olijf `#A3A17A` ✗ niet getest, verdacht
 - Geelachtig kaki `#8A8560` ✗
+
+**Koel of warm olijf, hoe zie je dat?** Koel olijf heeft grijs of blauw in zich en leest bijna als donker grijsgroen; warm olijf heeft geel in zich en schuift bij daglicht richting kaki of mosterd. Test: leg het naast marine of antraciet. Koel olijf gaat erin op, warm olijf springt er gelig uit. De olijfpolo op de foto's is niet zeker koel, maar was diep en donker genoeg om hoe dan ook te werken; bij diep olijf is het onderscheid pas belangrijk als het stuk effen en groot bij het gezicht zit.
 
 ### Rood / bordeaux / roze
 - Kersrood `#C8102E` ✓✓ [t, ruit]
@@ -82,6 +85,8 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 
 ### Warme uitzonderingen (oog-echo, alleen diep)
 - Espresso / donker chocolade `#3B2418`–`#4A2C1A` ✓ [t, gedragen] — ook als effen overhemd, niet alleen als accent. Het is de oogkleur in het donker: laat de ogen lichter en goudkleuriger lezen en houdt het contrast met het haar intact. Voorwaarden: alleen de donkerste bruinen; bruin met zwart of grijs erin, niet met oranje erin; glad, geen flanel of geborsteld (drukt bruin naar tabak); combineren met wit, zwart of marine, niet met beige of olijf
+- Donker warm olijf `#5C5B1F` ✓ accent — de warme grens van het profiel
+- Mosgroen `#4A5D23` ✓ accent
 - Amber `#B5651D` ✓ accent
 - Honingbruin `#8B5A2B` ✓ accent
 - Melkchocolade, tabak, cognac ✗ — te licht of te oranje; halveren het contrast met het haar
@@ -95,7 +100,7 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 
 ## Combinatieregels
 - Intern contrast van een outfit hoog houden: wit + marine, zwart + wit, smaragd + wit, ruit met witte lijn
-- Warm + koel mag, mits beide diep: marine + donker olijf, antraciet + mosgroen, bordeaux + donker olijf
+- Warm + koel mag, mits beide diep: marine + warm olijf, antraciet + mosgroen, bordeaux + espresso
 - Bruin heeft een koele of scherpe buur nodig (wit, zwart, marine) om niet tonaal-warm te worden
 - Middellicht en gedempt is het grootste bezwaar, groter dan warm
 - Lichte kleuren alleen als streep, accent of onder een donkere laag; effen licht = wit
@@ -103,6 +108,7 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 
 ## Referenties
 - Witbalans in foto's: zuiver wit T-shirt `#FAFAFA`
-- Warme grens: donkerolijf jack `#3E4A2A`
+- Koel olijf, bewezen: donkerolijf jack `#3E4A2A`
+- Warme grens: donker warm olijf `#5C5B1F`
 - Negatieve referentie: grijsmauve T-shirt `#A896A2`
 - Patroontest: ruit marine/dennengroen/rood/wit

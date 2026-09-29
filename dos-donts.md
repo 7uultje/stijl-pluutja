@@ -13,13 +13,14 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Effen overhemd: wit, zwart, dan espresso/donker chocoladebruin als derde keuze
 - Eén verzadigd kernstuk kopen: kobalt, dennengroen, smaragd, petrol of bordeaux. Ontbreekt in de huidige garderobe en zou meer doen dan alle grijstinten samen. Kleuren die bij anderen "te hard" zijn, zitten bij hem goed
 - Dennengroen en kersrood bij het gezicht: bevestigd op foto (ruit). Rood moet koel en diep zijn; koraal en zalm niet
-- Olijf alleen in de donkere versie (~#3E4A2A) bij het gezicht; mosgroen en amber vallen onder dezelfde uitzondering en laten de ogen oplichten
+- Donker koel olijf (`#3E4A2A`, het jack): volwaardig, ook effen bij het gezicht. Hoort bij het koele palet, geen uitzondering
+- Donker warm olijf (`#5C5B1F`), mosgroen en amber: alleen als accent; laten de ogen oplichten. Test koel/warm: naast marine houden, warm olijf springt er gelig uit
 - Donkerbruin (espresso, donker chocolade, `#3B2418`–`#4A2C1A`): laat de ogen goudkleuriger lezen, houdt het contrast met het haar. Voorwaarden: met zwart of grijs erin, niet oranje; glad; naast wit, zwart of marine
 - Licht alleen mét contrast: blauw-wit fijngestreept werkt, effen lichtblauw niet (hooguit als losse laag over wit)
-- Warm en koel samen mag, mits beide diep: marine + donker olijf, bordeaux + donker olijf
+- Warm en koel samen mag, mits beide diep: marine + warm olijf, bordeaux + espresso
 - Metaal: zilver, staal, witgoud; klein glanzend geelgoud alleen naast groen of bordeaux
 - Te testen: helder turquoise, verwacht ✓. Geel alleen als accent, oranje verwacht ✗
-- Zomer: een verzadigd middellicht blauw of groen (hemelsblauw, turquoise) mag dan als effen shirt; amber en koel olijf zitten dan op hun best. Winter: strengste palet, wit/zwart/marine/verzadigd, kolom levert het meest op
+- Zomer: een verzadigd middellicht blauw of groen (hemelsblauw, turquoise) mag dan als effen shirt; amber en warm olijf zitten dan op hun best. Winter: strengste palet, wit/zwart/marine/verzadigd, kolom levert het meest op
 - Hexcodes per kleur: zie `kleurenpalet.md`
 
 **Don't**
@@ -27,6 +28,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Warme neutralen bij het gezicht: camel, beige, mosterd, crème, kaki
 - Lichter of oranjer bruin: melkchocolade, tabak, cognac. Het bruine H&M-ruitje viel daarop af
 - Bruin naast beige of olijf: wordt tonaal-warm
+- Warm olijf als groot effen stuk bij het gezicht: daarvoor is het de grens, niet de kern
 - Koraalrood en zalm (kersrood, robijn, bordeaux kunnen wel); pastelroze
 - Ton-sur-ton in middentinten: grijs op greige, olijf op kaki
 - Lichtere olijf, salie en steen als top; op broek- en schoenniveau zijn ze prima

@@ -18,7 +18,8 @@ Snel checken of een kledingstuk past. Alleen wat vaststaat; open punten staan al
 ## 2. Pasvorm
 
 - Lengte 174 cm, ca. 68 kg, schoenmaat ca. 41 (sept 2026) — nog in de groei, dus koop op maat van nu, niet "om in te groeien".
-- Maten: bovenkleding heren S (regular, slim en loose passen alle drie); overhemden heren S; broeken heren S in regular of slim, relaxed fit en M vermijden; kids 170 is voorbij. Details in `maten.md`. Nog te meten: taille en binnenbeenlengte.
+- Maten: bovenkleding heren S; overhemden heren S; broeken heren S in regular of slim, relaxed fit en M vermijden; kids 170 is voorbij. Details in `maten.md`. Nog te meten: taille en binnenbeenlengte.
+- H&M: regular fit S is een halve maat te ruim in schouder en lijf; slim fit S benadert de benchmark. In de paskamer alleen de schoudernaad checken: op het bot, niet erover. Merken verschillen 2–3 cm in schouderbreedte, dus S is niet overal S.
 - Fit: slim, aansluitend niet strak. Benchmark wit T-shirt, vijf checkpunten bij elk merk: schoudernaad op het schouderbot; mouw halverwege bovenarm met ca. 2 cm lucht; zoom 2–5 cm onder de broeksband; ronde hals op het sleutelbeen; borst zonder vouwen of trekstrepen.
 - Broek: slim of straight, zonder omslag, tot op de schoen. Donkere kolom (zwart op zwart, marine op marine) verlengt.
 - Jas: kort (bomber, overshirt) of tonaal met de broek; lang alleen slank en donker. Geen licht jack op heuplengte boven een donkere broek. Opstaande kraag boven capuchon.

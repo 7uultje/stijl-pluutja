@@ -1,7 +1,7 @@
 # Kleurenprofiel — Pluut
 
 Assen: koel (neutrale kant) · verzadigd · diep · contrast hoog
-Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden bij het gezicht · [t] getest op foto · [nt] niet getest, verwachting
+Legenda: ✓ goed · ✓✓ kern · ~ neutraal/voorwaardelijk · ✗ vermijden bij het gezicht · [t] getest op foto · [t, gedragen] bevestigd door eerdere kledingstukken in het echt · [nt] niet getest, verwachting
 
 Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 
@@ -20,7 +20,7 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 | Grijs | lichtgrijs, koel | `#C4C8CE` | ~ alleen als streep of onder donker |
 | Grijs | greige | `#C9C2B8` | ✗ [t] |
 | Navy | diep marine | `#1B2A4A` | ✓✓ [t] — beste neutrale naast zwart |
-| Bruin | espresso / donker chocolade | `#3B2418`–`#4A2C1A` | ✓ [t, in de winkel] — derde keuze na wit en zwart voor effen overhemden; zie Warme uitzonderingen voor de voorwaarden |
+| Bruin | espresso / donker chocolade | `#3B2418`–`#4A2C1A` | ✓ [t, gedragen] — derde keuze na wit en zwart voor effen overhemden; zie Warme uitzonderingen voor de voorwaarden |
 | Bruin | melkchocolade, tabak, cognac | — | ✗ |
 | Beige | camel | `#C8A97E` | ✗ |
 | Beige | koele steen | `#B8B2A3` | ~ alleen broek/schoen |
@@ -81,7 +81,7 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 - Voluit oranje [nt] verwacht ✗ — warm, geen ankerpunt in de huid
 
 ### Warme uitzonderingen (oog-echo, alleen diep)
-- Espresso / donker chocolade `#3B2418`–`#4A2C1A` ✓ [t, in de winkel] — ook als effen overhemd, niet alleen als accent. Het is de oogkleur in het donker: laat de ogen lichter en goudkleuriger lezen en houdt het contrast met het haar intact. Voorwaarden: alleen de donkerste bruinen; bruin met zwart of grijs erin, niet met oranje erin; glad, geen flanel of geborsteld (drukt bruin naar tabak); combineren met wit, zwart of marine, niet met beige of olijf
+- Espresso / donker chocolade `#3B2418`–`#4A2C1A` ✓ [t, gedragen] — ook als effen overhemd, niet alleen als accent. Het is de oogkleur in het donker: laat de ogen lichter en goudkleuriger lezen en houdt het contrast met het haar intact. Voorwaarden: alleen de donkerste bruinen; bruin met zwart of grijs erin, niet met oranje erin; glad, geen flanel of geborsteld (drukt bruin naar tabak); combineren met wit, zwart of marine, niet met beige of olijf
 - Amber `#B5651D` ✓ accent
 - Honingbruin `#8B5A2B` ✓ accent
 - Melkchocolade, tabak, cognac ✗ — te licht of te oranje; halveren het contrast met het haar

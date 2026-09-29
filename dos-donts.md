@@ -1,6 +1,6 @@
 # Do's & don'ts
 
-Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `kleurenpalet.md`, `materiaal-en-afwerking.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md` en `sterke-punten.md`. Seizoensvertaling: `sterke-kleuren-najaar-2026.md`.
+Kort overzicht van wat wel en niet werkt. Wordt bij elke commit aangevuld als er iets nieuws uit volgt. Onderbouwing staat in `kleurprofiel.md`, `kleurenpalet.md`, `materiaal-en-afwerking.md`, `garderobe-analyse.md`, `gezicht-en-lichaamsbouw.md`, `maten.md` en `sterke-punten.md`. Seizoensvertaling: `sterke-kleuren-najaar-2026.md`.
 
 ## Vuistregel
 
@@ -98,6 +98,10 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 **Do**
 - Slim fit: aansluitend, niet strak. Niets te verbergen of te compenseren, alleen niet te wijd kopen
 - Benchmark wit T-shirt, vijf checkpunten bij elk merk: schoudernaad op het schouderbot; mouw halverwege bovenarm met ca. 2 cm lucht; zoom 2–5 cm onder de broeksband; ronde hals op het sleutelbeen; borst zonder vouwen of trekstrepen
+- Maten (sept 2026): bovenkleding S; broeken W31–32/L32, EU 46. Per merk aflezen op taille 80 / binnenbeen 81, niet op de letter. Onderbouwing in `maten.md`
+- Broek slim of straight met stretch, mid rise: de heup (97) vraagt ruimte in de dij, de korte body rise (27) vraagt een middelhoge band
+- Benen zijn relatief lang, romp iets kort: dat is zijn voordeel, niet inkorten. Zoom van tops op 2–5 cm onder de band, jack tot bovenkant heup blijft goed
+- Schouderlijn scherp houden (naad op het bot, stevige kraag): de schouders ogen van voren breder dan de heupen, en dat mag zichtbaar blijven
 - Doorlopende donkere kolom (marine op marine, antraciet op zwart) verlengt
 - Kleurbreuk hoog (kraag) of laag (schoen)
 - Broek slim of straight, zonder omslag, lengte tot op de schoen
@@ -105,6 +109,10 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 
 **Don't**
 - Oversized: maakt kleiner
+- Skinny: de dij zit er te vol voor (heup 97 bij borst 90); slim is de grens
+- Low rise (trekt in het kruis) en high rise (kort de toch al korte romp verder in)
+- Cropped tops en heel korte jacks: leggen de nadruk op de heup en maken de romp korter
+- Ruimere tops kopen "omdat de heup breder is dan de borst": de omtrek zit in de diepte, niet in de breedte; van voren blijft het een V. Borst en schouders vullen tussen 16 en 19 nog
 - Contrasterende kleurbreuk op heuphoogte: licht jack boven donkere broek, contrasterende riem, lichte broek onder donker shirt. Heuplengte zelf is geen probleem als het tonaal is
 - Bundelende broekspijpen
 

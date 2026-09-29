@@ -1,6 +1,6 @@
 # Sterke kleuren najaar 2026
 
-Welke kleuren uit het palet dit seizoen (herfst/winter 2026–2027) ook in de winkels liggen, en welke trendkleuren juist niet voor hem zijn. Onderbouwing van het palet: `kleurprofiel.md`, hexcodes: `kleurenpalet.md`. Seizoensbron: Nederlandse modeoverzichten van september 2026 (Wehkamp, Adversus, Bos Menshop, Trendystyle, Suitable), zie onderaan.
+Welke kleuren uit het palet dit seizoen (herfst/winter 2026–2027) ook in de winkels liggen, en welke trendkleuren juist niet voor hem zijn. Onderbouwing van het palet: `kleurprofiel.md`, hexcodes: `kleurenpalet.md`. Seizoensbron: Nederlandse modeoverzichten van september 2026 (Wehkamp, Adversus, Bos Menshop, Trendystyle, Suitable, Marie Claire, Jan, WGSN/Coloro via FashionUnited), zie onderaan.
 
 Kernregel voor het hele seizoen: **de kleur verandert niet, de stof wel.** Zijn palet is diep en koel en blijft dat het hele jaar. Herfst = lichtere stof en laagjes, winter = wol en de strengste versie (wit / zwart / marine / verzadigd, kolom). Wat winkels "herfstkleuren" noemen (roest, camel, mosterd, oker, warm olijf, sage) is exact de hoek die hij mijdt.
 
@@ -8,6 +8,7 @@ Kernregel voor het hele seizoen: **de kleur verandert niet, de stof wel.** Zijn 
 
 | Kleur | Hex (indicatief) | Waarom nu kopen | Waar op letten |
 |---|---|---|---|
+| Petrol / diep teal | zie kleurenpalet | Kleur van het jaar 2026 (WGSN/Coloro "Transformative Teal"), petrolblauw bij de zes trendkleuren van het seizoen, plus "Neptune green" (tussen teal, petrol en donkergroen). Staat al in zijn do's als kandidaat voor het verzadigde kernstuk; nu makkelijker te vinden dan in jaren en minder gedragen dan bordeaux of groen | Twee tests. Diepte: petrol en donker teal ✓, licht/fel teal ("Miami teal") is een zomerkleur zoals turquoise, niet voor nu. Grijs: veel trend-petrol is "petrolgrijs" of gedempt blauwgroen en valt dan in de grootste valkuil. Naast marine houden: petrol moet er duidelijk groener en even diep uitspringen, niet grauwer |
 | Bordeaux | zie kleurenpalet | Basiskleur van het seizoen: truien, overshirts, jassen, ruiten. Overal verkrijgbaar in goede diepe versie | Koel en diep; niet richting steenrood of terracotta |
 | Dennengroen / flessengroen | zie kleurenpalet | Basiskleur van het seizoen, samen met bordeaux in ruit- en visgraatdessins | Niet grijsgroen (gedempt); test naast marine |
 | Kobalt (ankerkleur) | `#1E4CA1` | Koningsblauw/kobalt is dé accentkleur van het seizoen; goed voor trui of sneaker | Eén stuk, niet stapelen |
@@ -19,12 +20,12 @@ Kernregel voor het hele seizoen: **de kleur verandert niet, de stof wel.** Zijn 
 
 ## Trend, maar niet voor hem
 
-Camel, taupe, greige, ecru, crème, mosterd, saffraan, oker, roest, terracotta, grijsgroen/sage, botergeel, ijsblauw/zachtblauw, lichte verwassen denim. Allemaal gedempt, warm of middellicht. Ze liggen dit najaar overal; dat verandert niets.
+Camel, taupe, greige, ecru, crème, mosterd, saffraan, oker, roest, terracotta, grijsgroen/sage, botergeel, ijsblauw/zachtblauw, lichte verwassen denim, petrolgrijs, fel/licht teal. Allemaal gedempt, warm of middellicht. Ze liggen dit najaar overal; dat verandert niets.
 
 ## Trends waar hij wél in mee kan
 
 - **Ruit en tartan**: alleen in bordeaux, dennengroen, marine, zwart, met scherpe lijnen. Camel-ruit laten liggen, ook al wordt die overal getoond
-- **Corduroy en ribbel**: in marine, bordeaux, flessengroen of zwart (zie `dos-donts.md`, materiaal). Niet in camel of taupe
+- **Corduroy en ribbel**: in marine, bordeaux, flessengroen, petrol of zwart (zie `dos-donts.md`, materiaal). Niet in camel of taupe
 - **Slanker silhouet, getailleerde jassen**: sluit aan bij zijn slim-fit-regel
 - **Fair Isle / patroonbreisels (ski-trend)**: alleen als grond donker is en het motief verzadigd; de meeste zijn gedempt-warm en vallen af
 
@@ -32,6 +33,7 @@ Camel, taupe, greige, ecru, crème, mosterd, saffraan, oker, roest, terracotta, 
 
 Zelfde kleuren, lichtere stof:
 
+- Petrol: katoenen trui, sweatshirt of overshirt over wit T-shirt — nu het makkelijkst te scoren
 - Dennengroen of flessengroen: katoenen sweater, sweatshirt, dunne trui — meest "herfst" ogende kleur die van hem is
 - Bordeaux: sweatshirt, polo of katoenen overshirt; wol komt later
 - Marine: dun overshirt of licht jack over wit T-shirt (wit-marine is zijn sterkste contrast)
@@ -39,15 +41,16 @@ Zelfde kleuren, lichtere stof:
 - Donker koel olijf: het jack als buitenlaag over wit of marine
 - Kobalt: accent (sneaker, straks muts, één trui); valt juist op nu de straat in bruin en beige loopt
 
-Combinaties die kloppen: wit T-shirt + dennengroene sweater + marine broek · wit overhemd + bordeaux sweater · olijfjack + wit + donkere jeans. Steeds hoog contrast, steeds diep.
+Combinaties die kloppen: wit T-shirt + dennengroene sweater + marine broek · wit overhemd + bordeaux sweater · olijfjack + wit + donkere jeans · petrol trui + wit T-shirt + zwarte of marine broek. Steeds hoog contrast, steeds diep.
 
 ## Boodschappenlijst dit seizoen
 
 Stukken die nu makkelijk te vinden zijn en na dit seizoen nog kloppen omdat ze in het palet zitten, niet omdat ze trend zijn:
 
-1. Bordeaux of flesgroene trui / sweater (glad gebreid, niet gemêleerd)
-2. Eén kobalt accent
-3. Eventueel een ruit-overshirt in bordeaux/dennengroen met witte of zwarte lijn
+1. Petrol trui of overshirt (glad, diep, niet grijs — marinetest)
+2. Bordeaux of flesgroene trui / sweater (glad gebreid, niet gemêleerd)
+3. Eén kobalt accent
+4. Eventueel een ruit-overshirt in bordeaux/dennengroen met witte of zwarte lijn
 
 ## Te testen (buiten het vastgestelde palet)
 
@@ -62,3 +65,6 @@ Stukken die nu makkelijk te vinden zijn en na dit seizoen nog kloppen omdat ze i
 - bosmenshop.nl/blog/de-5-mannenmode-trends-voor-herfst-winter-2026-2027/
 - trendystyle.net/modetrends-herfst-winter-2026-2027/
 - suitableshop.com/stories/mens-autumn-and-winter-fashion-trends/
+- marieclaire.nl/artikel/693542/6-belangrijkste-kleurentrends-van-de-herfst-en-winter (petrolblauw)
+- jan-magazine.nl/mode/g73344381/modekleuren-herfst-winter-2026-2027/ (Neptune green)
+- fashionunited.nl — WGSN/Coloro trendkleuren AW 26/27 (Transformative Teal, kleur van het jaar 2026)

@@ -10,9 +10,11 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 
 **Do**
 - Zuiver wit en diep koel (marine, antraciet, zwart) als basis — het witte T-shirt en het marine overhemd zijn de bewezen toppers, herhalen
+- Effen overhemd: wit, zwart, dan espresso/donker chocoladebruin als derde keuze
 - Eén verzadigd kernstuk kopen: kobalt, dennengroen, smaragd, petrol of bordeaux. Ontbreekt in de huidige garderobe en zou meer doen dan alle grijstinten samen. Kleuren die bij anderen "te hard" zijn, zitten bij hem goed
 - Dennengroen en kersrood bij het gezicht: bevestigd op foto (ruit). Rood moet koel en diep zijn; koraal en zalm niet
 - Olijf alleen in de donkere versie (~#3E4A2A) bij het gezicht; mosgroen en amber vallen onder dezelfde uitzondering en laten de ogen oplichten
+- Donkerbruin (espresso, donker chocolade, `#3B2418`–`#4A2C1A`): laat de ogen goudkleuriger lezen, houdt het contrast met het haar. Voorwaarden: met zwart of grijs erin, niet oranje; glad; naast wit, zwart of marine
 - Licht alleen mét contrast: blauw-wit fijngestreept werkt, effen lichtblauw niet (hooguit als losse laag over wit)
 - Warm en koel samen mag, mits beide diep: marine + donker olijf, bordeaux + donker olijf
 - Metaal: zilver, staal, witgoud; klein glanzend geelgoud alleen naast groen of bordeaux
@@ -23,6 +25,8 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 **Don't**
 - Gedempt-middellicht: blauwgrijs, grijsmauve, greige, stoffig — de grootste valkuil, groter dan warm. Greige is ook in de praktijk bevestigd: licht grijsbeige gilet bij het gezicht maakt de huid vlak en asgrauw, zelfs met wit overhemd eronder
 - Warme neutralen bij het gezicht: camel, beige, mosterd, crème, kaki
+- Lichter of oranjer bruin: melkchocolade, tabak, cognac. Het bruine H&M-ruitje viel daarop af
+- Bruin naast beige of olijf: wordt tonaal-warm
 - Koraalrood en zalm (kersrood, robijn, bordeaux kunnen wel); pastelroze
 - Ton-sur-ton in middentinten: grijs op greige, olijf op kaki
 - Lichtere olijf, salie en steen als top; op broek- en schoenniveau zijn ze prima
@@ -41,6 +45,7 @@ Twee dingen dragen alles: het contrast en het haar. Wat die versterkt (wit, mari
 - Verwassen, stonewashed, gefaded. Lichte uitgebleekte jeans is de grens; medium-donker was goed
 - Matte pastelstof (gewassen linnen in lichtblauw of salie): dubbel gedempt
 - Corduroy in camel of taupe: valt af op kleur
+- Bruin in flanel of geborsteld: drukt bruin meteen naar tabak
 - Echte glans in het hoofdstuk (satijn, zijde-look, glimmend polyester): kwestie van leeftijd en gelegenheid, niet van kleurprofiel
 
 ## Patroon en print

@@ -6,10 +6,11 @@ Snel checken of een kledingstuk past. Alleen wat vaststaat; open punten staan al
 
 - Type: koel (neutrale kant) · verzadigd · diep · hoog contrast. Geen seizoenslabel.
 - IJkpunt: kobaltblauw `#1E4CA1`. Witbalans bij foto's: zuiver wit T-shirt. Warme grens: donkerolijf jack `#3E4A2A`. Negatieve referentie: grijsmauve T-shirt.
-- Goed: zuiver wit, zwart, diep marine, antraciet; kobalt, petrol, dennengroen, flessengroen, smaragd, kersrood, bordeaux, aubergine. Als accent: donker olijf, mosgroen, amber.
-- Vermijden bij het gezicht: alles gedempt-middellicht (blauwgrijs, grijsmauve, greige, stoffig), warme neutralen (camel, beige, mosterd, crème, kaki), koraal, pastel, crème-wit.
+- Goed: zuiver wit, zwart, diep marine, antraciet; kobalt, petrol, dennengroen, flessengroen, smaragd, kersrood, bordeaux, aubergine; espresso/donker chocoladebruin (glad, naast wit, zwart of marine). Als accent: donker olijf, mosgroen, amber.
+- Effen overhemd: wit, zwart, dan espresso als derde keuze.
+- Vermijden bij het gezicht: alles gedempt-middellicht (blauwgrijs, grijsmauve, greige, stoffig), warme neutralen (camel, beige, mosterd, crème, kaki), lichter of oranjer bruin (melkchocolade, tabak, cognac), koraal, pastel, crème-wit.
 - Vuistregels: alleen de bovenste laag bij het gezicht telt; broeken en schoenen zijn kleurvrij maar niet lijnvrij (zie pasvorm); bij prints tellen de printkleuren mee als kleur bij het gezicht.
-- Materiaal: glad en dicht (poplin, effen jersey, merino, egale denim, nylon). Niet: melange/gemêleerd, geborsteld, fleece, verwassen. Het woord "melange" op een label is een afvaller.
+- Materiaal: glad en dicht (poplin, effen jersey, merino, egale denim, nylon). Niet: melange/gemêleerd, geborsteld, fleece, flanel, verwassen. Het woord "melange" op een label is een afvaller.
 - Patroon: groot en scherp boven klein en zacht; ruit of streep met witte lijn in kernkleuren ✓; micro-patroon in grijstinten ✗.
 - Palet met hexcodes: `kleurenpalet.md`. Zomer/winter-verschuiving: `kleurprofiel.md`, sectie Seizoen.
 

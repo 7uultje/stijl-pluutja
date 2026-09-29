@@ -20,6 +20,8 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 | Grijs | lichtgrijs, koel | `#C4C8CE` | ~ alleen als streep of onder donker |
 | Grijs | greige | `#C9C2B8` | ✗ [t] |
 | Navy | diep marine | `#1B2A4A` | ✓✓ [t] — beste neutrale naast zwart |
+| Bruin | espresso / donker chocolade | `#3B2418`–`#4A2C1A` | ✓ [t, in de winkel] — derde keuze na wit en zwart voor effen overhemden; zie Warme uitzonderingen voor de voorwaarden |
+| Bruin | melkchocolade, tabak, cognac | — | ✗ |
 | Beige | camel | `#C8A97E` | ✗ |
 | Beige | koele steen | `#B8B2A3` | ~ alleen broek/schoen |
 | Beige | licht zand | `#E8E2D6` | ~ alleen broek/schoen |
@@ -78,10 +80,11 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 - Helder citroengeel [nt] ~ koel en verzadigd, maar licht; als accent denkbaar. Het gele deel van de Spiderman-print stoorde niet, maar dat is te klein voor een oordeel
 - Voluit oranje [nt] verwacht ✗ — warm, geen ankerpunt in de huid
 
-### Warme uitzonderingen (oog-echo, alleen diep en als accent)
+### Warme uitzonderingen (oog-echo, alleen diep)
+- Espresso / donker chocolade `#3B2418`–`#4A2C1A` ✓ [t, in de winkel] — ook als effen overhemd, niet alleen als accent. Het is de oogkleur in het donker: laat de ogen lichter en goudkleuriger lezen en houdt het contrast met het haar intact. Voorwaarden: alleen de donkerste bruinen; bruin met zwart of grijs erin, niet met oranje erin; glad, geen flanel of geborsteld (drukt bruin naar tabak); combineren met wit, zwart of marine, niet met beige of olijf
 - Amber `#B5651D` ✓ accent
 - Honingbruin `#8B5A2B` ✓ accent
-- Chocoladebruin `#4A2C1A` ~ diep genoeg, warmer dan de huid
+- Melkchocolade, tabak, cognac ✗ — te licht of te oranje; halveren het contrast met het haar
 - Mosterd `#D4A017` ✗ [t, jeugd]
 - Oker `#C58F2A` ✗
 
@@ -93,6 +96,7 @@ Seizoensverschuiving (zomer/winter) staat in `kleurprofiel.md`, sectie Seizoen.
 ## Combinatieregels
 - Intern contrast van een outfit hoog houden: wit + marine, zwart + wit, smaragd + wit, ruit met witte lijn
 - Warm + koel mag, mits beide diep: marine + donker olijf, antraciet + mosgroen, bordeaux + donker olijf
+- Bruin heeft een koele of scherpe buur nodig (wit, zwart, marine) om niet tonaal-warm te worden
 - Middellicht en gedempt is het grootste bezwaar, groter dan warm
 - Lichte kleuren alleen als streep, accent of onder een donkere laag; effen licht = wit
 - Bij prints tellen de printkleuren mee als kleur bij het gezicht

@@ -39,6 +39,7 @@ Geen seizoenslabels als profielbeschrijving: "deep winter" is de dichtstbijzijnd
 - **Koel diep rood bij het gezicht ✓:** kersrood is getest (ruit, warm binnenlicht) en houdt de huid levendig; koraal en zalm blijven ✗
 - **Patronen: hoog intern contrast mag druk zijn.** Zie sectie Patroon en print
 - **Warm alleen diep en als oog-echo:** donker olijf (~#3E4A2A) is getest en goed; mosgroen en amber zijn daaruit afgeleid; gelere of lichtere olijf niet getest en verdacht. Warme neutralen (camel, beige, mosterd, crème) ✗
+- **Donkerbruin is een gevolg van het profiel, geen uitzondering erop.** Espresso en donker chocolade zijn diep en dicht, dus goed op de twee assen die de doorslag geven; het is de oogkleur in het donker (laat de ogen lichter en goudkleuriger lezen) en het houdt het contrast met het bijna-zwarte haar intact. Eerder als ~ genoteerd omdat het warm is; dat was de temperatuur-as te zwaar laten wegen. Grens zit dichtbij: alleen de donkerste bruinen, met zwart of grijs erin en niet met oranje, glad en niet geborsteld, naast wit, zwart of marine. Melkchocolade, tabak, cognac en camel vallen af
 - **Contrast-matchregel:** combinaties met hoog intern contrast (wit + marine, zwart + wit, smaragd + wit) matchen; ton-sur-ton in middentinten (grijs op greige, olijf op kaki) zit onder het eigen niveau en maakt het gezicht vlakker dan het is
 - **Warm en koel mogen samen in één outfit, mits beide diep:** marine + donker olijf, antraciet + mosgroen, bordeaux + donker olijf
 - **Metaal:** zilver, staal, witgoud eerste keus; geelgoud toegestaan als het klein en glanzend is en naast groen of bordeaux zit; rosé en koper ✗
@@ -55,6 +56,7 @@ Hoog eigen contrast betekent dat hij grote schaal aankan; de eis zit niet in de 
 - Brede strepen: navy/wit ✓ op contrast, maar horizontale brede strepen verbreden, en het gezicht is al breed; liever onder de kraag beginnen, of verticaal
 - Camouflage: standaardcamo is drie gedempte warme tinten, dus ✗ op kleur; een donkere navy/zwart-camo zou werken [aanname]
 - All-over prints: ✓ met donkere grond en verzadigd motief; ✗ zodra het "vintage" of verwassen is
+- Bruin ruitje (H&M, in de winkel): zat aan de oranje kant en valt daarom af; een effen espresso-overhemd zit aan de zwarte kant en werkt wel
 
 ## Seizoen
 
